@@ -1,0 +1,4 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+21:07:58	5142/5142	---M-Z	404	error ('Not%20Found')	text/html	etag:W/%2268c9de78-239b%22	https://0wik.github.io/robots.txt		(from )
+21:07:59	1774938/1774938	---M-Z	200	added ('OK')	text/html	etag:W/%2268e0011c-1b155a%22	https://0wik.github.io/Windy-City-Weapons/	C:/Users/aiden/Downloads/whoopty/windycity/0wik.github.io/Windy-City-Weapons/index.html	(from )
+21:08:00	9379/9379	---M-Z	404	error ('Not%20Found')	text/html	etag:W/%2264d39a40-24a3%22	https://0wik.github.io/Windy-City-Weapons/${w.name.replace(/	C:/Users/aiden/Downloads/whoopty/windycity/0wik.github.io/Windy-City-Weapons/${w.name.replace(/index.html	(from https://0wik.github.io/Windy-City-Weapons/)
